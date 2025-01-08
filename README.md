@@ -2,16 +2,7 @@
 
 [Wonder3D](https://github.com/xxlong0/Wonder3D)是一个2D图片转3D模型的应用。安装过程比较复杂，我制作了Windows版的一键启动整合包，方便不会安装的人快速上手体验这个应用。
 
-## 效果演示视频
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/aidayang/Wonder3D-OneClick/raw/refs/heads/main/asssets/%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="320" height="240" controls>
-    <source src="https://github.com/aidayang/Wonder3D-OneClick/blob/main/asssets/%E6%95%88%E6%9E%9C%E6%BC%94%E7%A4%BA.mp4" type="video/mp4">
-</video>
 
 ## 整合包使用说明
 
