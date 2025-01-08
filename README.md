@@ -1,6 +1,6 @@
 # Wonder3D-OneClick
 
-[Wonder3D](https://github.com/xxlong0/Wonder3D)是一个2D图片转3D模型的应用。安装过程比较复杂，我制作了Windows版的一键启动整合包，方便不会安装的人快速上手体验这个应用。
+Wonder3D是一个2D图片转3D模型的应用。安装过程比较复杂，我制作了Windows版的一键启动整合包，方便不会安装的人快速上手体验这个应用。
 
 
 
