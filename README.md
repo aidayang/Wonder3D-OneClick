@@ -15,6 +15,8 @@ Visual Studio安装完成后需要将编译工具cl.exe路径添加到系统环�
 
 将整合包下载到电脑上解压之后，先运行【下载模型.exe】，我将模型文件上传到了魔塔，会自动从魔塔下载模型文件，然后运行【启动软件.exe】
 
+视频教程：[youtube](https://www.youtube.com/watch?v=-N7HxQ7yXKU)
+
 ## 整合包使用注意事项
 
 整合包只支持Windows 10或11 64位系统
