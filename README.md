@@ -40,3 +40,6 @@ win11系统运行软件时如果报u2net错误，可将项目文件夹内的u2ne
 ## Wonder3D链接
 
 [https://github.com/xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)
+
+## 其它
+微软也开源了一款图片转3D的应用TRELLIS，生成速度更快，而且质量更高。新用户推荐直接体验TRELLIS，TRELLIS一键启动整合包项目链接：https://github.com/aidayang/TRELLIS-OneClick
