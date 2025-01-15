@@ -29,7 +29,6 @@ Visual Studio安装完成后需要将编译工具cl.exe路径添加到系统环�
 
 win11系统运行软件时如果报u2net错误，可将项目文件夹内的u2net文件夹复制到Administrator文件夹内并重命名为.u2net
 
-更多软件说明：[https://nuowa.net/1589](https://nuowa.net/1589)
 
 ## Wonder3D整合包下载链接
 
